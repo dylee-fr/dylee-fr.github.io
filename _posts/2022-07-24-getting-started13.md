@@ -1,18 +1,13 @@
 ---
-title: test Started
-author: ldy
+title: Getting Started13
+author: cotes
 date: 2022-07-24 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
 ---
 
-
-# Test
-
-## Test 11
-
-## Prerequisites
+## Prerequisites1
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/) is also required to be installed.
 
