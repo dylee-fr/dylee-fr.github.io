@@ -74,7 +74,6 @@ google_analytics:
 #     dark   - Use the dark color scheme
 #
 #theme_mode:   # [light|dark]
-theme_mode: dark
 
 
 # The CDN endpoint for images.
