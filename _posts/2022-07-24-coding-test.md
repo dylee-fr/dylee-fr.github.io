@@ -26,6 +26,14 @@ pin: true
 ## 출력
 첫째 줄에 K원을 만드는데 필요한 동전 개수의 최솟값을 출력한다.
 
+## 풀이
+```
+N, total = map(int,(input().split()))
+
+for i in range(N):
+  print(i)
+
+```
 
 
 
